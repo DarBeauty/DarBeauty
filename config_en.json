@@ -26,8 +26,8 @@
 "items":[
 {
 "key":"DtvwDONspx",
-"name":"ترندينغ",
-"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_AR.webp?v=1727681366",
+"name":"Trending",
+"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_EN.webp?v=1727681366",
 "video":"",
 "padding":15,
 "category":"gid://shopify/Collection/138436935760",
@@ -97,7 +97,7 @@
 },
 {
 "category":"gid://shopify/Collection/138436935760",
-"name":"ترندينغ",
+"name":"Trending",
 "layout":"threeColumn",
 "isSnapping":false,
 "image":"",
@@ -197,7 +197,7 @@
 },
 {
 "category":"gid://shopify/Collection/165167005776",
-"name":"جديد",
+"name":"NEW",
 "layout":"threeColumn",
 "isSnapping":false,
 "image":"",
@@ -468,7 +468,7 @@
 "preview_data":false
 },
 {
-"name":"من اختيارنا ",
+"name":"Our Choice",
 "rows":1,
 "image":"",
 "limit":20,
@@ -847,7 +847,7 @@
 {
 "key":"qfnFsqOKcQ",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5221b1a14f9625e0eb3e/download/Home_icon.svg",
-"label":"الرئيسية",
+"label":"Home",
 "layout":"home",
 "defaultTab":true,
 "fullscreen":false,
@@ -856,7 +856,7 @@
 {
 "key":"kGRMsSTHVs",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671f18765ec9cf466ac78b06/download/output_menu_icon.svg",
-"label":"القائمة",
+"label":"Menu",
 "layout":"profile",
 "visible":true,
 "hideUser":true,
@@ -876,7 +876,7 @@
 {
 "key":"OCEhQlCBQleyL",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e526cdd0413ad8f2ebe3f/download/Cart_icon.svg",
-"label":"السلة",
+"label":"Cart",
 "layout":"cart",
 "visible":true,
 "fullscreen":true,
@@ -885,7 +885,7 @@
 {
 "key":"oUxyIRulqIa",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e517fb0ba5cf8747e3651/download/output_icon.svg",
-"label":"الفئات",
+"label":"Categories",
 "layout":"category",
 "visible":true,
 "parallax":false,
@@ -906,7 +906,7 @@
 {
 "key":"bsLebVbFmF",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5534e93e496909941cf2/download/output_heart_icon.svg",
-"label":"المفضلة",
+"label":"Wishlist",
 "layout":"wishlist",
 "fullscreen":true,
 "showOriginalColor":false
@@ -914,7 +914,7 @@
 {
 "key":"SfSIdvZMnCAFep",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e52b3de3c3bc9b6305817/download/User_icon.svg",
-"label":"حسابي",
+"label":"Profile",
 "layout":"profile",
 "settings":["order",
 "wishlist",
@@ -937,7 +937,7 @@
 "showOriginalColor":false,
 "subGeneralSetting":{
 "about":{
-"webUrl":"https://darbeauty.com/pages/about-us"
+"webUrl":"https://darbeauty.com/en/pages/about-us"
 },
 "privacy":{
 "webUrl":"https://darbeauty.com/en/pages/app-terms-of-service"}}
@@ -1021,8 +1021,8 @@
 "web-MIXZVnpERT":{
 "id":"web-12",
 "icon":"news",
-"title":"من نحن",
-"webUrl":"https://darbeauty.com/pages/about-us",
+"title":"About Us",
+"webUrl":"https://darbeauty.com/en/pages/about-us",
 "buttons":[],
 "enableClose":true,
 "webViewMode":true,
@@ -1035,7 +1035,7 @@
 "screen-kfCkJqWUNK":{
 "id":"web-12",
 "icon":"cube_box",
-"title":"تتبع الطلب",
+"title":"Tracking Order",
 "screen":"orders",
 "buttons":[],
 "bannerHeight":15,
@@ -1050,5 +1050,5 @@
 "overrideTranslation":{
 "sale":"خصم {percent} ٪",
 "@@locale":"ar",
-"checkout":"المتابعة",
-"aboutUs":"من نحن"}}
+"checkout":"Checkout",
+"aboutUs":"About Us"}}
