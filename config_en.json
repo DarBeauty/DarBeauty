@@ -3,7 +3,7 @@
 {
 "font":"Tajawal",
 "type":"rotate",
-"title":"شحن مجاني للطلبات فوق 24 ريال",
+"title":""Free shipping for orders over 24 OMR",
 "height":30,
 "layout":"header_text",
 "rotate":[],
@@ -55,7 +55,7 @@
 "items":[
 {
 "key":"zqevhJCLcy",
-"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_AR.webp?v=1727681366",
+"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/DR_BANNER_MOBILE_EN.webp?v=1727681366",
 "video":"",
 "category":"gid://shopify/Collection/138436935760",
 "products":[],
@@ -135,7 +135,7 @@
 },
 {
 "category":"gid://shopify/Collection/138436935760",
-"name":"ترندينغ",
+"name":"Trending",
 "layout":"threeColumn",
 "isSnapping":false,
 "image":"",
@@ -234,7 +234,7 @@
 },
 {
 "category":"gid://shopify/Collection/165167005776",
-"name":"جديد",
+"name":"New",
 "layout":"threeColumn",
 "isSnapping":false,
 "image":"",
@@ -287,7 +287,7 @@
 "items":[
 {
 "key":"oLugSAzUBn",
-"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/beautyofjoseon_banner_ar.webp?v=1720944449",
+"image":"https://cdn.shopify.com/s/files/1/0235/6687/6752/files/beautyofjoseon_banner_en.webp?v=1720944449",
 "video":"",
 "radius":4.0,
 "padding":0.0,
@@ -313,7 +313,7 @@
 },
 {
 "category":"gid://shopify/Collection/261529272400",
-"name":"من اختيارنا ",
+"name":"Our Choice",
 "layout":"threeColumn",
 "isSnapping":false,
 "image":"",
@@ -360,7 +360,7 @@
 },
 {
 "category":"gid://shopify/Collection/263133790288",
-"name":"مجموعات",
+"name":"Bundle",
 "layout":"largeCard",
 "isSnapping":false,
 "image":"",
@@ -408,7 +408,7 @@
 {
 "font":"Tajawal",
 "type":"static",
-"title":"الماركات الأكثر شعبية",
+"title":"Popular Brands",
 "height":43,
 "layout":"header_text",
 "rotate":[],
@@ -545,7 +545,7 @@
 {
 "originalColor":false,
 "backgroundColor":null,
-"title":"Yoga",
+"title":"null",
 "name":null,
 "keepDefaultTitle":false,
 "colors":[],
@@ -622,7 +622,7 @@
 "preview_data":false
 },
 {
-"name":"شوهدت مؤخراً",
+"name":"Recently Viewed",
 "layout":"recentView",
 "isSnapping":false,
 "image":"",
@@ -668,7 +668,7 @@
 },
 {
 "layout":"blog",
-"name":"المدونة",
+"name":"Blog",
 "enableBackground":false,
 "padding":15.0,
 "innerPadding":5.0,
@@ -900,7 +900,7 @@
 {
 "key":"qfnFsqOKcQ",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5221b1a14f9625e0eb3e/download/Home_icon.svg",
-"label":"الرئيسية",
+"label":"Home",
 "layout":"home",
 "defaultTab":true,
 "fullscreen":false,
@@ -909,7 +909,7 @@
 {
 "key":"OCEhQlCBQleyL",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e526cdd0413ad8f2ebe3f/download/Cart_icon.svg",
-"label":"السلة",
+"label":"Cart",
 "layout":"cart",
 "visible":true,
 "fullscreen":true,
@@ -918,7 +918,7 @@
 {
 "key":"oUxyIRulqIa",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e517fb0ba5cf8747e3651/download/output_icon.svg",
-"label":"الفئات",
+"label":"Category",
 "layout":"category",
 "visible":true,
 "parallax":false,
@@ -940,7 +940,7 @@
 {
 "key":"bsLebVbFmF",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5534e93e496909941cf2/download/output_heart_icon.svg",
-"label":"المفضلة",
+"label":"Wishlist",
 "layout":"wishlist",
 "fullscreen":true,
 "showOriginalColor":false
@@ -949,7 +949,7 @@
 "key":"SfSIdvZMnCAFep",
 "layout":"profile",
 "icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e52b3de3c3bc9b6305817/download/User_icon.svg",
-"label":"حسابي",
+"label":"Profile",
 "visible":true,
 "defaultTab":false,
 "fullscreen":true,
@@ -975,7 +975,7 @@
 "web-DEbBlfZfhA":{
 "id":"web-12",
 "icon":"chat_bubble_text",
-"title":"راسلنا",
+"title":"Chat",
 "webUrl":"https://wa.me/96892188664",
 "buttons":[],
 "bannerHeight":15,
@@ -987,7 +987,7 @@
 "title-vdgFuDqmtE":{
 "id":"web-12",
 "icon":"news",
-"title":"الإعدادات",
+"title":"Settings",
 "screen":"home",
 "buttons":[],
 "bannerHeight":15,
@@ -1003,7 +1003,7 @@
 "title-wvLDeCttXa":{
 "id":"web-12",
 "icon":"news",
-"title":"الحساب",
+"title":"Account",
 "buttons":[],
 "bannerHeight":15,
 "useTabScreen":false,
@@ -1017,7 +1017,7 @@
 },
 "title-rpnBtnpgHc":{
 "id":"web-12",
-"title":"الدعم والمساعدة",
+"title":"Help Center",
 "icon":"news",
 "iconFontFamily":"CupertinoIcons",
 "verticalPadding":{
@@ -1047,7 +1047,7 @@
 "icon":"person",
 "size":44,
 "type":"text",
-"title":"شحن مجاني للطلبات فوق 24 ريال",
+"title":"Free Shipping on Orders Over 24 OMR",
 "action":"location",
 "height":30,
 "radius":0,
@@ -1058,7 +1058,7 @@
 "textColor":"ffffffff",
 "fontFamily":"CupertinoIcons",
 "fontWeight":"400",
-"headerText":"يل",
+"headerText":"N",
 "marginLeft":0,
 "paddingTop":0,
 "marginRight":0,
@@ -1171,7 +1171,7 @@
 "web-HrWXCQWqmj":{
 "id":"web-12",
 "icon":"exclamationmark_circle_fill",
-"title":"من نحن",
+"title":"About Us",
 "webUrl":"https://darbeauty.com/pages/app-about-us",
 "buttons":[],
 "webViewMode":true,
@@ -1184,7 +1184,7 @@
 "web-PLtsBIgXrY":{
 "id":"web-12",
 "icon":"lock_shield_fill",
-"title":"سياسة الخصوصية",
+"title":"Privacy Policy",
 "webUrl":"https://darbeauty.com/pages/app-privacy-policy",
 "buttons":[],
 "enableClose":true,
@@ -1197,7 +1197,7 @@
 "web-dOxvfOrYHl":{
 "id":"web-12",
 "icon":"sticky_note_2",
-"title":"شروط الاستخدام",
+"title":"Terms of Service",
 "webUrl":"https://darbeauty.com/en/pages/app-terms-of-service",
 "buttons":[],
 "enableClose":true,
@@ -1210,7 +1210,7 @@
 "screen-wOAAcYcCPS":{
 "id":"web-12",
 "icon":"cube_box_fill",
-"title":"تتبع الطلب",
+"title":Track Orde",
 "screen":"orders",
 "buttons":[],
 "bannerHeight":15,
@@ -1222,7 +1222,7 @@
 "category-TFlIxaETXc":{
 "id":"web-12",
 "icon":"new_label",
-"title":"الجديد",
+"title":"New Arrivals",
 "buttons":[],
 "category":"gid://shopify/Collection/165167005776",
 "bannerHeight":15,
@@ -1234,7 +1234,7 @@
 "category-vRTsxAdtng":{
 "id":"web-12",
 "icon":"whatshot",
-"title":"العروض",
+"title":"Special Offers",
 "buttons":[],
 "category":"gid://shopify/Collection/262614155344",
 "bannerHeight":15,
@@ -1247,10 +1247,10 @@
 "backgroundImage":null
 },
 "overrideTranslation":{
-"sale":"خصم {percent} ٪",
-"aboutUs":"من نحن",
+"sale":"Sale {percent} ٪",
+"aboutUs":"About Us",
 "@@locale":"ar",
-"checkout":"تأكيد الشراء",
-"generalSetting":"الحساب",
+"checkout":"Checkout",
+"generalSetting":"Account",
 "availability":"",
-"outOfStock":"نفذ من المخزون"}}
+"outOfStock":"Out of Stock"}}
