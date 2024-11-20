@@ -970,7 +970,7 @@
 "webUrl":"https://darbeauty.com/pages/app-about-us"
 },
 "privacy":{
-"webUrl":"https://darbeauty.com/en/pages/app-terms-of-service"
+"webUrl":"https://darbeauty.com/pages/app-terms-of-service"
 },
 "web-DEbBlfZfhA":{
 "id":"web-12",
@@ -1198,7 +1198,7 @@
 "id":"web-12",
 "icon":"sticky_note_2",
 "title":"شروط الاستخدام",
-"webUrl":"https://darbeauty.com/en/pages/app-terms-of-service",
+"webUrl":"https://darbeauty.com/pages/app-terms-of-service",
 "buttons":[],
 "enableClose":true,
 "webViewMode":true,
