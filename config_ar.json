@@ -1177,7 +1177,7 @@
 "webViewMode":true,
 "bannerHeight":15,
 "useTabScreen":false,
-"enableBackward":true,
+"enableBackward":false,
 "iconFontFamily":"CupertinoIcons",
 "buttonAlignment":"centerLeft"
 },
