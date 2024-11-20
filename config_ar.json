@@ -1187,7 +1187,7 @@
 "title":"سياسة الخصوصية",
 "webUrl":"https://darbeauty.com/pages/app-privacy-policy",
 "buttons":[],
-"enableClose":true,
+"enableClose":false,
 "webViewMode":true,
 "bannerHeight":15,
 "useTabScreen":false,
