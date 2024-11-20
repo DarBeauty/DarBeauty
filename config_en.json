@@ -967,7 +967,7 @@
 "rating"],
 "subGeneralSetting":{
 "about":{
-"webUrl":"https://darbeauty.com/pages/app-about-us"
+"webUrl":"https://darbeauty.com/en/pages/app-about-us"
 },
 "privacy":{
 "webUrl":"https://darbeauty.com/en/pages/app-terms-of-service"
@@ -1172,7 +1172,7 @@
 "id":"web-12",
 "icon":"exclamationmark_circle_fill",
 "title":"About Us",
-"webUrl":"https://darbeauty.com/pages/app-about-us",
+"webUrl":"https://darbeauty.com/en/pages/app-about-us",
 "buttons":[],
 "webViewMode":true,
 "bannerHeight":15,
@@ -1185,7 +1185,7 @@
 "id":"web-12",
 "icon":"lock_shield_fill",
 "title":"Privacy Policy",
-"webUrl":"https://darbeauty.com/pages/app-privacy-policy",
+"webUrl":"https://darbeauty.com/en/pages/app-privacy-policy",
 "buttons":[],
 "enableClose":true,
 "webViewMode":true,
