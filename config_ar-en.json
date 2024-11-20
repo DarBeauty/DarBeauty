@@ -2471,7 +2471,7 @@
 "screen-wOAAcYcCPS":{
 "id":"web-12",
 "icon":"cube_box_fill",
-"title":Track Orde",
+"title":"Track Orde",
 "screen":"orders",
 "buttons":[],
 "bannerHeight":15,
