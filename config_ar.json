@@ -896,20 +896,6 @@
 "canDrag":true,
 "canClose":true}}
 },
-"ProductColors":{
-"BP01":"ffd6ab7c",
-"BP02":"ffcda373",
-"BP03":"ffb88a5f",
-"BP04":"ffb28055",
-"01 NEUTRAL NUDE":"ffc3887a",
-"02 MILKY CHOCOLATE":"ff976a65",
-"03 ROSE NUDE":"ffb37b94",
-"04 SWEET LIPS":"ffb66b72",
-"05 RED PASSION":"ffb11b36",
-"06 CASHMERE ROSE":"ff8f515c",
-"07 BABY NUDE":"ffb7666f",
-"08 LOVELY ROSE":"ffb48476"}
-},
 "TabBar":[
 {
 "key":"qfnFsqOKcQ",
