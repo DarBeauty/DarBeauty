@@ -760,7 +760,7 @@
 "FontFamily":"Tajawal",
 "FontHeader":"Tajawal",
 "StickyHeader":true,
-"TabBarConfig":{
+"BarConfig":{
 "enable":true,
 "showMinimize":false,
 "lazyLoading":false,
@@ -795,7 +795,7 @@
 "x":0.0,
 "y":10.0
 },
-"alwaysShowTabBar":true,
+"alwaysShowTabBar":false,
 "TabBarIndicator":{
 "height":2.0,
 "tabPosition":"bottom",
