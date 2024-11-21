@@ -1190,7 +1190,6 @@
 "webUrl":"https://darbeauty.com/pages/app-privacy-policy",
 "buttons":[],
 "enableClose":true,
-"enableBackward":false,
 "webViewMode":true,
 "bannerHeight":15,
 "useTabScreen":false,
