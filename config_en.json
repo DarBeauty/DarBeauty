@@ -263,7 +263,7 @@
 "enableRating":false,
 "showStockStatus":false,
 "hideEmptyProductListRating":false,
-"showHeart":false,
+"showHeart":true,
 "showCartButton":false,
 "showCartIcon":true,
 "showCartIconColor":false,
