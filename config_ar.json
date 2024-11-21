@@ -1174,6 +1174,8 @@
 "title":"من نحن",
 "webUrl":"https://darbeauty.com/pages/app-about-us",
 "buttons":[],
+"enableForward":false,
+"enableBackward":false,
 "webViewMode":true,
 "bannerHeight":15,
 "useTabScreen":false,
