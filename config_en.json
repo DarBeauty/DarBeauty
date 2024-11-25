@@ -899,7 +899,7 @@
 "TabBar":[
 {
 "key":"qfnFsqOKcQ",
-"icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5221b1a14f9625e0eb3e/download/Home_icon.svg",
+"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b5a4b0e4f3a5b0475a62/download/Home_icon.svg",
 "label":"Home",
 "layout":"home",
 "defaultTab":true,
@@ -908,7 +908,7 @@
 },
 {
 "key":"OCEhQlCBQleyL",
-"icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e526cdd0413ad8f2ebe3f/download/Cart_icon.svg",
+"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b6682700038e457b5890/download/Cart_icon.svg",
 "label":"Cart",
 "layout":"cart",
 "visible":true,
@@ -917,7 +917,7 @@
 },
 {
 "key":"oUxyIRulqIa",
-"icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e517fb0ba5cf8747e3651/download/output_icon.svg",
+"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b680f2de03f27b9362e5/download/output_icon.svg",
 "label":"Category",
 "layout":"category",
 "visible":true,
@@ -939,7 +939,7 @@
 },
 {
 "key":"bsLebVbFmF",
-"icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e5534e93e496909941cf2/download/output_heart_icon.svg",
+"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b68d3f5f6de08cd3f7a2/download/output_heart_icon.svg",
 "label":"Wishlist",
 "layout":"wishlist",
 "fullscreen":true,
@@ -948,7 +948,7 @@
 {
 "key":"SfSIdvZMnCAFep",
 "layout":"profile",
-"icon":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671e52b3de3c3bc9b6305817/download/User_icon.svg",
+"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b69c1723b5fdbfd517c3/download/User_icon.svg",
 "label":"Profile",
 "visible":true,
 "defaultTab":false,
