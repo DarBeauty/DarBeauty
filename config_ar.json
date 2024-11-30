@@ -169,7 +169,7 @@
 "hideStore":false,
 "hideTitle":false,
 "featured":false,
-"enableRating":false,
+"enableRating":true,
 "showStockStatus":false,
 "hideEmptyProductListRating":false,
 "showHeart":true,
