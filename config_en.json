@@ -916,26 +916,51 @@
 "showOriginalColor":false
 },
 {
-"key":"oUxyIRulqIa",
-"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b680f2de03f27b9362e5/download/output_icon.svg",
-"label":"Category",
-"layout":"category",
-"visible":true,
-"parallax":false,
-"categories":["gid://shopify/Collection/169582166096",
-"gid://shopify/Collection/169582559312",
-"gid://shopify/Collection/169582624848",
-"gid://shopify/Collection/169582723152",
-"gid://shopify/Collection/263133790288",
-"gid://shopify/Collection/266316316752",
-"gid://shopify/Collection/267868045392"],
-"defaultTab":false,
-"fullscreen":true,
-"showQRScan":true,
-"showSearch":false,
-"categoryLayout":"card",
-"showOriginalColor":false,
-"parallaxImageRatio":1.2
+  "key": "oUxyIRulqIa",
+  "icon": "https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b680f2de03f27b9362e5/download/output_icon.svg",
+  "label": "Category",
+  "layout": "sideMenuWithSub",
+  "visible": true,
+  "parallax": false,
+  "categories": [
+    {
+      "id": "gid://shopify/Collection/266316316752",
+      "subCategories": [
+        "gid://shopify/Collection/261325062224",
+        "gid://shopify/Collection/261325029456",
+        "gid://shopify/Collection/261325127760",
+        "gid://shopify/Collection/261323259984"
+      ]
+    },
+    {
+      "id": "gid://shopify/Collection/169582166096"
+    },
+    {
+      "id": "gid://shopify/Collection/169582559312"
+    },
+    {
+      "id": "gid://shopify/Collection/169582624848"
+    },
+    {
+      "id": "gid://shopify/Collection/169582723152"
+    },
+    {
+      "id": "gid://shopify/Collection/263133790288"
+    },
+    {
+      "id": "gid://shopify/Collection/266316316752"
+    },
+    {
+      "id": "gid://shopify/Collection/267868045392"
+    }
+  ],
+  "defaultTab": false,
+  "fullscreen": true,
+  "showQRScan": true,
+  "showSearch": false,
+  "categoryLayout": "card",
+  "showOriginalColor": false,
+  "parallaxImageRatio": 1.2
 },
 {
 "key":"bsLebVbFmF",
