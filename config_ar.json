@@ -916,27 +916,75 @@
 "showOriginalColor":false
 },
 {
-"key":"oUxyIRulqIa",
-"icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b680f2de03f27b9362e5/download/output_icon.svg",
-"label":"الفئات",
-"layout":"category",
-"visible":true,
-"parallax":false,
-"categories":["gid://shopify/Collection/169582166096",
-"gid://shopify/Collection/169582559312",
-"gid://shopify/Collection/169582624848",
-"gid://shopify/Collection/169582723152",
-"gid://shopify/Collection/263133790288",
-"gid://shopify/Collection/266316316752",
-"gid://shopify/Collection/267868045392"],
-"defaultTab":false,
-"fullscreen":true,
-"showQRScan":true,
-"showSearch":false,
-"categoryLayout":"card",
-"showOriginalColor":false,
-"parallaxImageRatio":1.2
-},
+      "key":"oUxyIRulqIa",
+      "layout":"category",
+      "icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b680f2de03f27b9362e5/download/output_icon.svg",
+      "label":"الفئات",
+      "visible":true,
+      "defaultTab":false,
+      "fullscreen":true,
+      "showOriginalColor":false,
+      "categoryLayout":"card",
+      "categories": [
+        "gid://shopify/Collection/169582166096",
+        "gid://shopify/Collection/169582559312",
+        "gid://shopify/Collection/169582624848",
+        "gid://shopify/Collection/169582723152",
+        "gid://shopify/Collection/263133790288",
+        "gid://shopify/Collection/266316316752",
+        "gid://shopify/Collection/267868045392"
+      ],
+      "remapCategories": [
+        {
+          "category": "gid://shopify/Collection/169582166096",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/169582559312",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/169582624848",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/169582723152",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/263133790288",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/266316316752",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/267868045392",
+          "parent": null
+        },
+        {
+          "category": "gid://shopify/Collection/261325062224",
+          "parent": "gid://shopify/Collection/266316316752"
+        },
+        {
+          "category": "gid://shopify/Collection/261325029456",
+          "parent": "gid://shopify/Collection/266316316752"
+        },
+        {
+          "category": "gid://shopify/Collection/261325127760",
+          "parent": "gid://shopify/Collection/266316316752"
+        },
+        {
+          "category": "gid://shopify/Collection/261323259984",
+          "parent": "gid://shopify/Collection/266316316752"
+        }
+      ],
+      "parallax":false,
+      "parallaxImageRatio":1.2,
+      "showSearch":false,
+      "showQRScan":true
+    },
 {
 "key":"bsLebVbFmF",
 "icon":"https://trello.com/1/cards/673cc88391f6afb2cad536bf/attachments/6744b68d3f5f6de08cd3f7a2/download/output_heart_icon.svg",
